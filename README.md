@@ -26,7 +26,4 @@ Run
     OR
     python3 VS-canner..py
 
-# License
-Gouthaman7gsix/VS-canner is licensed under the MIT License
-/Copyright (c) 2020 Gouthaman7gsix
                                    
