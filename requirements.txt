@@ -1,0 +1,11 @@
+requests
+urllib.parse
+platform
+socket
+re
+bs4
+time
+termcolor
+pyfiglet
+sys
+os
